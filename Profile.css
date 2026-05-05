@@ -1,0 +1,31 @@
+.profile-page {
+  padding: 40px;
+  max-width: 600px;
+  margin: auto;
+}
+
+.profile-card {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.profile-links {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.profile-links a {
+  color: #ff3f6c;
+  font-weight: 500;
+}
+
+.logout-btn {
+  margin-top: 20px;
+  background: #ff3f6c;
+  color: #fff;
+  padding: 10px;
+  border-radius: 6px;
+}

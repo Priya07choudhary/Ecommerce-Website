@@ -1,0 +1,327 @@
+[
+  
+
+  {
+    "id": 1,
+    "name": "Women Designer Saree",
+    "category": "Women",
+    "subCategory": "Sarees",
+    "price": 1899,
+    "image": "assets/women/sarees/OIP.webp"
+  },
+  {
+    "id": 2,
+    "name": "Women Silk Saree",
+    "category": "Women",
+    "subCategory": "Sarees",
+    "price": 2199,
+    "image": "assets/women/sarees/OIP (1).webp"
+  },
+  {
+    "id": 3,
+    "name": "Women Party Wear Saree",
+    "category": "Women",
+    "subCategory": "Sarees",
+    "price": 2499,
+    "image": "assets/women/sarees/OIP (2).webp"
+  },
+  {
+    "id": 4,
+    "name": "Women Printed Saree",
+    "category": "Women",
+    "subCategory": "Sarees",
+    "price": 1699,
+    "image": "assets/women/sarees/OIP (3).webp"
+  },
+
+  
+
+  {
+    "id": 5,
+    "name": "Women Slim Fit Jeans",
+    "category": "Women",
+    "subCategory": "Jeans",
+    "price": 1299,
+    "image": "assets/women/jeans/OIP (4).webp"
+  },
+  {
+    "id": 6,
+    "name": "Women High Rise Jeans",
+    "category": "Women",
+    "subCategory": "Jeans",
+    "price": 1499,
+    "image": "assets/women/jeans/OIP (5).webp"
+  },
+
+  
+
+  {
+    "id": 7,
+    "name": "Women Cotton Kurta",
+    "category": "Women",
+    "subCategory": "Kurtas",
+    "price": 999,
+    "image": "assets/women/kurta/download (1).webp"
+  },
+  {
+    "id": 8,
+    "name": "Women Floral Kurta",
+    "category": "Women",
+    "subCategory": "Kurtas",
+    "price": 1199,
+    "image": "assets/women/kurta/download (2).webp"
+  },
+  {
+    "id": 9,
+    "name": "Women Designer Kurta",
+    "category": "Women",
+    "subCategory": "Kurtas",
+    "price": 1599,
+    "image": "assets/women/kurta/OIP (7).webp"
+  },
+
+ 
+
+  {
+    "id": 10,
+    "name": "Women Casual Top",
+    "category": "Women",
+    "subCategory": "Tops",
+    "price": 799,
+    "image": "assets/women/tops/download.webp"
+  },
+  {
+    "id": 11,
+    "name": "Women Stylish Top",
+    "category": "Women",
+    "subCategory": "Tops",
+    "price": 899,
+    "image": "assets/women/tops/OIP (6).webp"
+  },
+  {
+    "id": 12,
+    "name": "Women Party Wear Top",
+    "category": "Women",
+    "subCategory": "Tops",
+    "price": 1099,
+    "image": "assets/women/tops/top1.webp"
+  },
+  {
+    "id": 13,
+    "name": "Women Trendy Top",
+    "category": "Women",
+    "subCategory": "Tops",
+    "price": 999,
+    "image": "assets/women/tops/top5.webp"
+  }
+
+
+  ,
+{
+  "id": 101,
+  "name": "Men Slim Fit Jeans",
+  "category": "Men",
+  "subCategory": "Jeans",
+  "price": 1599,
+  "image": "assets/men/jeans/download (4).webp"
+},
+{
+  "id": 102,
+  "name": "Men Blue Stretch Jeans",
+  "category": "Men",
+  "subCategory": "Jeans",
+  "price": 1799,
+  "image": "assets/men/jeans/download (5).webp"
+},
+{
+  "id": 103,
+  "name": "Men Regular Fit Jeans",
+  "category": "Men",
+  "subCategory": "Jeans",
+  "price": 1499,
+  "image": "assets/men/jeans/download (6).webp"
+},
+{
+  "id": 104,
+  "name": "Men Casual Denim Jeans",
+  "category": "Men",
+  "subCategory": "Jeans",
+  "price": 1899,
+  "image": "assets/men/jeans/OIP (13).webp"
+},
+
+
+{
+  "id": 105,
+  "name": "Men Formal Shirt",
+  "category": "Men",
+  "subCategory": "Shirts",
+  "price": 1299,
+  "image": "assets/men/shirt/download (3).webp"
+},
+{
+  "id": 106,
+  "name": "Men Casual Cotton Shirt",
+  "category": "Men",
+  "subCategory": "Shirts",
+  "price": 1199,
+  "image": "assets/men/shirt/OIP (11).webp"
+},
+{
+  "id": 107,
+  "name": "Men Checked Shirt",
+  "category": "Men",
+  "subCategory": "Shirts",
+  "price": 1399,
+  "image": "assets/men/shirt/OIP (12).webp"
+},
+
+
+{
+  "id": 108,
+  "name": "Men Round Neck T‑Shirt",
+  "category": "Men",
+  "subCategory": "T-Shirts",
+  "price": 699,
+  "image": "assets/men/tshirt/OIP (8).webp"
+},
+{
+  "id": 109,
+  "name": "Men Printed T‑Shirt",
+  "category": "Men",
+  "subCategory": "T-Shirts",
+  "price": 799,
+  "image": "assets/men/tshirt/OIP (9).webp"
+},
+{
+  "id": 110,
+  "name": "Men Solid Cotton T‑Shirt",
+  "category": "Men",
+  "subCategory": "T-Shirts",
+  "price": 899,
+  "image": "assets/men/tshirt/OIP (10).webp"
+}
+
+,
+
+
+{
+  "id": 201,
+  "name": "Kids Casual Clothing Set",
+  "category": "Kids",
+  "subCategory": "Clothing Sets",
+  "price": 699,
+  "image": "assets/kids/clothing/download (10).webp"
+},
+{
+  "id": 202,
+  "name": "Kids Printed Clothing Set",
+  "category": "Kids",
+  "subCategory": "Clothing Sets",
+  "price": 799,
+  "image": "assets/kids/clothing/OIP (15).webp"
+},
+
+
+{
+  "id": 203,
+  "name": "Kids Party Wear Dress",
+  "category": "Kids",
+  "subCategory": "Dresses",
+  "price": 999,
+  "image": "assets/kids/dresses/download (7).webp"
+},
+{
+  "id": 204,
+  "name": "Kids Floral Dress",
+  "category": "Kids",
+  "subCategory": "Dresses",
+  "price": 1099,
+  "image": "assets/kids/dresses/OIP (14).webp"
+},
+
+
+
+{
+  "id": 205,
+  "name": "Kids Casual Top",
+  "category": "Kids",
+  "subCategory": "Tops",
+  "price": 499,
+  "image": "assets/kids/tops/download (8).webp"
+},
+{
+  "id": 206,
+  "name": "Kids Printed Top",
+  "category": "Kids",
+  "subCategory": "Tops",
+  "price": 599,
+  "image": "assets/kids/tops/download (9).webp"
+},
+
+{
+  "id": 401,
+  "name": "Fast Charging Adapter",
+  "category": "Accessories",
+  "subCategory": "Charger",
+  "price": 999,
+  "image": "assets/accessories/charger/download (11).webp"
+},
+{
+  "id": 402,
+  "name": "USB Power Charger",
+  "category": "Accessories",
+  "subCategory": "Charger",
+  "price": 799,
+  "image": "assets/accessories/charger/OIP (20).webp"
+},
+{
+  "id": 403,
+  "name": "Laptop Carrying Bag",
+  "category": "Accessories",
+  "subCategory": "Laptop",
+  "price": 2299,
+  "image": "assets/accessories/laptop/OIP (16).webp"
+},
+{
+  "id": 404,
+  "name": "Laptop Protective Sleeve",
+  "category": "Accessories",
+  "subCategory": "Laptop",
+  "price": 1799,
+  "image": "assets/accessories/laptop/OIP (17).webp"
+},
+{
+  "id": 405,
+  "name": "Laptop Backpack",
+  "category": "Accessories",
+  "subCategory": "Laptop",
+  "price": 2499,
+  "image": "assets/accessories/laptop/OIP (18).webp"
+},
+{
+  "id": 406,
+  "name": "Premium Laptop Case",
+  "category": "Accessories",
+  "subCategory": "Laptop",
+  "price": 1999,
+  "image": "assets/accessories/laptop/OIP (19).webp"
+},
+{
+  "id": 407,
+  "name": "Mobile Back Cover",
+  "category": "Accessories",
+  "subCategory": "Mobile",
+  "price": 599,
+  "image": "assets/accessories/mobile/OIP (21).webp"
+},
+{
+  "id": 408,
+  "name": "Mobile Screen Protector",
+  "category": "Accessories",
+  "subCategory": "Mobile",
+  "price": 299,
+  "image": "assets/accessories/mobile/OIP (22).webp"
+}
+
+]

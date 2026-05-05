@@ -1,0 +1,23 @@
+.transaction {
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: white;
+  margin: 50px;
+  border-radius: 10px;
+}
+
+.transaction h1 {
+  color: #03a685;
+  margin-bottom: 10px;
+}
+
+.transaction button {
+  margin-top: 20px;
+  padding: 12px 24px;
+  background: #ff3f6c;
+  color: white;
+  border-radius: 6px;
+}
